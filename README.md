@@ -9,4 +9,4 @@ https://i.picasion.com/pic92/2e575204a06505f747f29809b0079c50.gif
 
 Solución
 
-https://github.com/garv018/divisas.git
+https://github.com/paprada/sprint1-grupo4-2290
